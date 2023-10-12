@@ -1,3 +1,15 @@
+## <Nadia Naz> Web exercise 
+
+Hello, in this I learned through the markdown way to create an engaging readme.
+
+### What I learned from this is:
+    - How a markdown file is created
+    - How a markdown syntax is written 
+    - How a code is formatted in markdown 
+    - How images are embedded in markdown 
+
+# The Web Exercise is as follows:
+
 # <u>**Italics and bold:**</u>
 
 Writing in Markdown is _not_ that hard!  
