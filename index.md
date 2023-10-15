@@ -12,13 +12,13 @@ Hello, in this I learned through the markdown way how to create an engaging read
 
 ### [Italics and Bold](https://www.markdowntutorial.com/lesson/1/)  
 
- Writing in Markdown is not that hard!  
+  Writing in Markdown is _not_ that hard!  
 
- I *will* complete these lessons!  
+ I **will** complete these lessons!  
 
- "Of course," she whispered. Then, she shouted: "All I need is *a little moxie*!"  
+ "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"  
 
- If you're thinking to yourself, *This is unbelievable*, you'd probably be right.  
+ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.  
 
 ### [Headers](https://www.markdowntutorial.com/lesson/2/) 
 
