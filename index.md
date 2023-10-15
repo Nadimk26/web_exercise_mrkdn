@@ -8,6 +8,10 @@ Hello, in this I learned through the markdown way how to create an engaging read
     - How a code is formatted in markdown 
     - How images are embedded in markdown 
 
+### [Sub Page](/Addons.md)
+
+>Please click the **[Sub Page](/Addons.md)** (sub-page) for details...
+
 # The Web Exercise is as follows:
 
 ### [Italics and Bold](https://www.markdowntutorial.com/lesson/1/)  
